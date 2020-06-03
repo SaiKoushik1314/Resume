@@ -1,9 +1,17 @@
 ## Employment History
 
 **Company : Kroger**
-**Description**: I worked on three different project in Kroger. My First project was SonomaProject where Kroger changes its Gift card processing vendor and I had the pleasuree of working on all sorts of payment transactions like Authorizing, Capturing, Refunding, Returning the funds to customer and we completed the entire project in 4 months. The Second Project I worked is Kroger Cash, this project is totally unique where customers can link their bank accounts and hold cash in their Kroger pay wallet and use it to pay for transactions at POS and Ecommerce, we implemented this project successfully dealing with multiple types of authorizations. Currently, I'm working on building a brand new payment platform which will deal with Credit card, ACH, Debit card, Chase pay.
 
-**Skills Used**
+**Description**: I work as Software Developer at Kroger with Payment transactions team. We develop solutions that help in making the checkout process easier for customer and process the payment smoothly. Working in payments is really challenging since we are at the end for all Kroger and Its banner names transactions.During my time I understood the process on how our payment gets processed and it was suprsing too me on how much work is involved in capturing funds from customer.Below are the list of projects I worked with Kroger.
+
+**Projects**
+**Project 1:** My First project was SonomaProject where Kroger changes its Gift card processing vendor and I had the pleasuree of working on all sorts of payment transactions like Authorizing, Capturing, Refunding, Returning the funds to customer and we completed the entire project in 4 months.
+
+**Project 2:** The Second Project I worked is Kroger Cash, this project is totally unique where customers can link their bank accounts and hold cash in their Kroger pay wallet and use it to pay for transactions at POS and Ecommerce, we implemented this project successfully dealing with multiple types of authorizations. 
+
+**Project 3:** Currently, I'm working on building a brand new payment platform which will deal with Credit card, ACH, Debit card, Chase pay.
+
+**Summary of skills used**
 -	Working on Development of value card project for completing all gift card transactions like authorization, purchase, return using Kotlin.
 -	Created Kotlin functions, extensions and sealed classes to handle exceptions functionally.
 -	Developed Restful API’s in both Kotlin and JAVA using spring boot and developed utility libraries to help in testing and development process.
