@@ -1,19 +1,19 @@
 ## A little about myself
 
-Hello!!! I'm Sai Koushik, Chituluri. I was born and raised in India and did my bachelors in India in Electronics and Communication Engineering later came to States to do my Masters in computer science at Northern Illinois Univeristy. I really enjoyed my time during masters. I got opportunity to work with great professors and people from various parts of the world. In free time I like to watch netflix, workouut, go hiking, running, watch movies. I like adrenaline rush activities, I did skydiving, sky jump and enjoyed throughly.
+Hello!!! I'm Sai Koushik, Chituluri. I was born and raised in India and did my bachelors in India in Electronics and Communication Engineering later came to States to do my Master’s in computer science at Northern Illinois University. I really enjoyed my time during masters. I got opportunity to work with great professors and people from various parts of the world. In free time I like to watch Netflix, workout, go hiking, running, watch movies. I like adrenaline rush activities, I did skydive, sky jump and enjoyed thoroughly.
 
-I want to work in a company where I have challenges constantly and colloborative space where co-workers are friendly. I like a challenge that pushes me to think uniquely and so something new. I would like to use my skills to be a part of organization that cares about work-life balance.Everyone I worked with appreciated my leadership skills, I have always been ready to stand up and lead from my childhood. I have been elected as the leader in my school to lead a group and succesfully won the sports championship and during my time at Capgemini, I filled in a leadership vaccum when senior developers were not available and lead an offshore team. Below is a deatiled look at my employmyent history. Thanks for taking the time to visit.
+I want to work in a company where I have challenges constantly and collaborative space where co-workers are friendly. I like a challenge that pushes me to think uniquely and so something new. I would like to use my skills to be a part of organization that cares about work-life balance. Everyone I worked with appreciated my leadership skills, I have always been ready to stand up and lead from my childhood. I have been elected as the leader in my school to lead a group and successfully won the sports championship and during my time at Capgemini, I filled in a leadership vacuum when senior developers were not available and lead an offshore team. Below is a detailed look at my employment history. Thanks for taking the time to visit.
 
 
 ## Employment History
 
 **Company : Kroger**
 
-**Description**: I work as Software Developer-Contract at Kroger with Payment transactions team. We develop solutions that help in making the checkout process easier for customer and process the payment smoothly. Working in payments is really challenging since we are at the end for all Kroger and Its banner names transactions.During my time I understood the process on how our payment gets processed and it was suprsing too me on how much work is involved in capturing funds from customer.Below are the list of projects I worked with Kroger.
+**Description**: I work as Software Developer-Contract at Kroger with Payment transactions team. We develop solutions that help in making the checkout process easier for customer and process the payment smoothly. Working in payments is really challenging since we are at the end for all Kroger and Its banner names transactions. During my time I understood the process on how our payment gets processed and it was surprising to me on how much work is involved in capturing funds from customer. Below is the list of projects I worked with Kroger.
 
 **Projects**
 
-**Project 1:** My First project was SonomaProject where Kroger changes its Gift card processing vendor and I had the pleasure of working on all sorts of payment transactions like Authorizing, Capturing, Refunding, Returning the funds to customer and we completed the entire project in 4 months.
+**Project 1:** My First project was Sonoma Project where Kroger changes its Gift card processing vendor and I had the pleasure of working on all sorts of payment transactions like Authorizing, Capturing, Refunding, Returning the funds to customer and we completed the entire project in 4 months.
 
 **Project 2:** The Second Project I worked is Kroger Cash, this project is totally unique where customers can link their bank accounts and hold cash in their Kroger pay wallet and use it to pay for transactions at POS and Ecommerce, we implemented this project successfully dealing with multiple types of authorizations. 
 
@@ -41,11 +41,11 @@ I want to work in a company where I have challenges constantly and colloborative
 
 **Company : Nationwide Insurance**
 
-**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle mutiple riders on policy.Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
+**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle multiple riders on policy. Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
 
 **Projects**
 
-**Project 1:** My First project was ITAM Assset conversion where I built Restful applications replacing the MS Access based applications. The work assignment to various roles in the excepion managers was very complex due to the various product expertise of business teams and the we had to provide control to the manager to handle the part where managers will be moved from one group to other group temporarily or permanentlor making sure the manager can exist in mutiple groups was challenging. Also I added a feature where we can generate reports of the distributions.
+**Project 1:** My First project was ITAM Assset conversion where I built Restful applications replacing the MS Access based applications. The work assignment to various roles in the exception managers was very complex due to the various product expertise of business teams and the we had to provide control to the manager to handle the part where managers will be moved from one group to other group temporarily or permanently making sure the manager can exist in multiple groups was challenging. Also, I added a feature where we can generate reports of the distributions.
 
 **Project 2:** The Second Project I worked is GTM where we provide annuity beneficiary data to other teams via rest. During this part We used a spring boot project where exposed end points for our customers to make restful call to get and post data for beneficiaries.
 
@@ -75,7 +75,7 @@ I want to work in a company where I have challenges constantly and colloborative
 
 **Company : Pacific Life Insurance-Capgemini**
 
-**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle mutiple riders on policy.Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
+**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle multiple riders on policy.Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
 
 **Projects**
 
@@ -108,11 +108,12 @@ I want to work in a company where I have challenges constantly and colloborative
 
 **Company : Enphase Energy**
 
-**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle mutiple riders on policy.Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
+**Description**: ENPHASE is a Solar – Panel manufacturing company. Enlighten is a web application where the primary purpose of application is providing a user interface for the installer and site owner to monitor the system. 
 
 **Projects**
 
-**Project:** ENPHASE is a Solar – Panel manufacturing company. Enlighten is a web application where the primary purpose of application is providing a user interface for the installer and site owner to monitor the system. Enlighten has ability to provide reports for month, year. It has various modules like TPM and AGF that help in monitoring the activity of system with respective to the grid. Data from the site gets registered for every five-minute interval’s from various parts of world. Application has been internationalized to meet the grid profile requirements of countries respectively.
+**Project:**  Enlighten has ability to provide reports for month, year. It has various modules like TPM and AGF that help in monitoring the activity of system with respective to the grid. Data from the site gets registered for every five-minute interval’s from various parts of world. Application has been internationalized to meet the grid profile requirements of countries respectively.
+
 
 **Summary of skills used**
 -	Program Rest web services based on java, spring, Jax-RS for exchanging data with other
