@@ -1,3 +1,7 @@
+## A little about myself
+
+Hello!!! I'm Sai Koushik, Chituluri. I was born and raised in India and did my bachelors in India in Electronics and Communication Engineering later came to States to do my Masters in computer science at Northern Illinois Univeristy. I really enjoyed my time during masters. I got opportunity to work with great professors and people from various parts of the world. In free time I like to watch netflix, workouut, go hiking, running, watch movies. I like adrenaline rush activities, I did skydiving, sky jump and enjoyed throughly. Thanks for visiting.
+
 ## Employment History
 
 **Company : Kroger**
