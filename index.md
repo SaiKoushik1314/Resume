@@ -4,6 +4,7 @@ Hello!!! I'm Sai Koushik, Chituluri. I was born and raised in India and did my b
 
 I want to work in a company where I have challenges constantly and colloborative space where co-workers are friendly. I like a challenge that pushes me to think uniquely and so something new. I would like to use my skills to be a part of organization that cares about work-life balance.Everyone I worked with appreciated my leadership skills, I have always been ready to stand up and lead from my childhood. I have been elected as the leader in my school to lead a group and succesfully won the sports championship and during my time at Capgemini, I filled in a leadership vaccum when senior developers were not available and lead an offshore team. Below is a deatiled look at my employmyent history. Thanks for taking the time to visit.
 
+
 ## Employment History
 
 **Company : Kroger**
