@@ -124,6 +124,4 @@
 -	Program using api’s provided by java libraries and others like apache, spring that help in the
   code development process and write comment lines next to code explaining the purpose. Optimize, refactor code continuously     to improve the code quality.
 
-[Link](url) and ![Image](src)
-```
-
+![Image](src)
