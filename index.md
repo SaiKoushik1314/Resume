@@ -66,6 +66,64 @@
 -	Worked on deploying GTM project on docker container using concourse pipelines.
 -	Developed a POC for Serverless architecture using AWS lambda, Docker, AWS s3, AWS API gateway.
 
+**Company : Pacific Life Insurance-Capgemini**
+
+**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle mutiple riders on policy.Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
+
+**Projects**
+
+**Project:** Genius application is intra application having varied features to process application for insurance. It has various entities involved like Indexing, Data entry, Exception manager, underwriter, cashier and the respective managers. The application sets the status of case as it moves on and creates tasks for various entities upon assessment of case which happens at various stage.
+
+**Summary of skills used**
+-	Involved in Analysis, Design, Development phases of the application.
+-	Extensively used Core Java API, Spring API in developing the business logic. 
+-	Used S2C container for building, testing and deploying application which is faster when compared to tomcat.
+-	Involved in various testing phases like DEV, INT, CI, and CERT and fixed the bugs raised during testing.
+-	Used Spring Boot to schedule a CRON jobs for every 5mins to poll images from FileNet db.
+-	Created round robin task assignment logic of consultant tasks in Underwriter role.
+-	Mapped Check 21 JSON response to VO classes using Jackson jars.
+-	Worked in Web services/API development mostly XML based/SOAP.
+-	Developed XSD’s and used JAXB parsers to create classes from XSD’s.
+-	Responsible to write the different service classes and utility API which will be used across the framework.
+-	Used Spring Exception Handling to implement exception handling annotations.
+-	Design classes in backend to process various requests from front end and to generate responses using Servlets, core java.
+-	Worked on development of E-delivery project in Angular JS.
+-	Connected to Oracle Database using DAO (Data Access Object using Spring DAO) Patterns. 
+-	Identifying appropriate AWS service based on compute, data availability, security requirements and storage.
+-	Configured AWS Identity and Access Management (IAM) users and groups for improved login authentication.
+-	Experience in creating alarms and notifications for instances using Cloud Watch.
+-	Jenkins for continuous integration testing and familiar with the manual deployment as well. 
+-	Responsible to create build and deployment jobs in various environments like DEV, INT and CI using Jenkins (Continuous         Deployment) tool.
+-	Developed Restful webservice using JAX-RS, Jersey framework.
+-	Developed time tracker utility and deployed it on AWS EC2 instances, configured Security groups, enabled auto scaling to       ensure high availability. 
+-	Used Log4j for the logging the output to the files. 
+-	Used JIRA for bug tracking, Rally to track the User stories. 
+
+**Company : Enphase Energy**
+
+**Description**: I worked as IT-Specialist-contract at Nationwide Insurance. During this time I worked on multiple projects which helped me understand the process of work distribution to exception managers and also the problems involved in maintaining beneficiary data and how to handle mutiple riders on policy.Team at nationwide is very special to me, It is the best team I have worked on and they always want me to come back.
+
+**Projects**
+
+**Project:** ENPHASE is a Solar – Panel manufacturing company. Enlighten is a web application where the primary purpose of application is providing a user interface for the installer and site owner to monitor the system. Enlighten has ability to provide reports for month, year. It has various modules like TPM and AGF that help in monitoring the activity of system with respective to the grid. Data from the site gets registered for every five-minute interval’s from various parts of world. Application has been internationalized to meet the grid profile requirements of countries respectively.
+
+**Summary of skills used**
+-	Program Rest web services based on java, spring, Jax-RS for exchanging data with other
+-	services in formats like JSON, Xml.
+-	Use Eclipse IDE for debugging purposes, programming and unit testing.
+-	Create new tables, update, insert, delete data in mongo-db.
+-	Analyze requirements and participate in 3 amigo meetings to discuss requirements and ask the analyst about the questions and   gaps in the requirement.
+-	Fix the reported defects on existing code and update them to handle those scenarios.
+-	Work on AWS-SNS (Simple Notification Service) that is used to send notification to users
+  about failure of EC2 instances and their auto population.
+-	Write programs in a variety of computer languages like Java, HTML, CSS, JavaScript, Jquery.
+-	Unit Test programs for defects and fix the broken code. Write Test cases to cover scenarios
+-	Participate and contribute in design meetings for creation of data model and object model.
+-	Program platform independent applications that can work on any platform.
+-	Working on Test driven development, pair programming and refactoring code.
+-	Program using api’s provided by java libraries and others like apache, spring that help in the
+  code development process and write comment lines next to code explaining the purpose. Optimize, refactor code continuously     to improve the code quality.
+
 
 You can use the [editor on GitHub](https://github.com/SaiKoushik1314/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -98,7 +156,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaiKoushik1314/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
