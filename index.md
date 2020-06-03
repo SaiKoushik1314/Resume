@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Employemnt History
+
+# Company : Kroger
+Description: I worked on three different project in Kroger. My First project was SonomaProject where Kroger changes its Gift card processing vendor and I had the pleasuree of working on all sorts of payment transactions like Authorizing, Capturing, Refunding, Returning the funds to customer and we completed the entire project in 4 months. The Second Project I worked is Kroger Cash, this project is totally unique where customers can link their bank accounts and hold cash in their Kroger pay wallet and use it to pay for transactions at POS and Ecommerce, we implemented this project successfully dealing with multiple types of authorizations. Currently, I'm working on building a brand new payment platform which will deal with Credit card, ACH, Debit card, Chase pay.
 
 You can use the [editor on GitHub](https://github.com/SaiKoushik1314/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
