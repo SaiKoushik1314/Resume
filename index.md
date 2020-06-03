@@ -1,6 +1,8 @@
 ## A little about myself
 
-Hello!!! I'm Sai Koushik, Chituluri. I was born and raised in India and did my bachelors in India in Electronics and Communication Engineering later came to States to do my Masters in computer science at Northern Illinois Univeristy. I really enjoyed my time during masters. I got opportunity to work with great professors and people from various parts of the world. In free time I like to watch netflix, workouut, go hiking, running, watch movies. I like adrenaline rush activities, I did skydiving, sky jump and enjoyed throughly. Thanks for visiting.
+Hello!!! I'm Sai Koushik, Chituluri. I was born and raised in India and did my bachelors in India in Electronics and Communication Engineering later came to States to do my Masters in computer science at Northern Illinois Univeristy. I really enjoyed my time during masters. I got opportunity to work with great professors and people from various parts of the world. In free time I like to watch netflix, workouut, go hiking, running, watch movies. I like adrenaline rush activities, I did skydiving, sky jump and enjoyed throughly.
+
+I want to work in a company where I have challenges constantly and colloborative space where co-workers are friendly. I like a challenge that pushes me to think uniquely and so something new. I would like to use my skills to be a part of organization that cares about work-life balance.Everyone I worked with appreciated my leadership skills, I have always been ready to stand up and lead from my childhood. I have been elected as the leader in my school to lead a group and succesfully won the sports championship and during my time at Capgemini, I filled in a leadership vaccum when senior developers were not available and lead an offshore team. Below is a deatiled look at my employmyent history. Thanks for taking the time to visit.
 
 ## Employment History
 
