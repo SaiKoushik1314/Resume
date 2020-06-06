@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello!!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for taking the time to read my blog. I was born and raised in India. I like to watch movies, netflix. and my favorite show is The Office, I love comedy and I watch most kind of movies except for horror. My dream is to get a business degree in world's to institutes and move into higher managment position. I also dream to start my own vertical farming company one day. I believe farming teaches patience, hardwork. It certainly helped me become better person than I was. I also like to cook and have recently started to bake. I love pizza and like to try out local pizzerias whenever I can. I like to workout, swim and play basket ball. I like watching and playing sports like tennis, soccer, cricket. 
